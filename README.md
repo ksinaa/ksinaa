@@ -1,6 +1,5 @@
 - 👋 Hi, I’m sina mohammadi
 - 👀 I’m interested in web development especially back-end
-- 🌱 I’m currently learning nodejs and mysql
 - 📫 sinamohammadi213@gmail.com
 
 <!---
