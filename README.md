@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sina mohammadi
-- 👀 I’m interested in web development especially back-end
+- 👀 im a software engineer
 - 📫 sinamohammadi213@gmail.com
 
 <!---
